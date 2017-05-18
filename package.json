@@ -1,5 +1,5 @@
 {
-  "name": "phantom-html2pdf",
+  "name": "electron-phantom-html2pdf",
   "description": "Simple and lightweight HTML to PDF conversion using Node and PhantomJS",
   "contributors": [
     {
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bauhausjs/phantom-html2pdf.git"
+    "url": "https://github.com/Lemaf/electron-phantom-html2pdf.git"
   },
   "keywords": [
     "pdf",
